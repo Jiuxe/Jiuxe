@@ -4,9 +4,9 @@
   
 <p align="center">
   <a href="https://github.com/Jiuxe">
-    <img width="150" src="loading.gif">
+    <img width="150" src="loading_gif.gif">
     <img src="https://github-readme-stats.vercel.app/api?username=Jiuxe&hide_border=true&show_icons=true&text_color=A349A4&bg_color=0000&custom_title=Jiuxe Stast">
-    <img width="150" src="loading.gif">
+    <img width="150" src="loading_gif.gif">
   </a>
 </p>
 
