@@ -11,8 +11,10 @@
 </p>
 
 <p align="center">
+  <img width="150" src="lang_up.gif">
   <a href="https://github.com/Jiuxe"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiuxe&hide_border=true&show_icons=true&text_color=A349A4&bg_color=0000&custom_title=Langs Level">
   </a>
+  <img width="150" src="lang_up.gif">
 </p>
 
 <!--
