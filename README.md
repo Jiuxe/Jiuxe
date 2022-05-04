@@ -1,5 +1,5 @@
 <h1 align="center">
-  Jiuxe say: Hi
+  Jiuxe says: Hi
 </h1>
   
 <p align="center">
